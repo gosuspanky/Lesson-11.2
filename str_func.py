@@ -1,11 +1,11 @@
-def caps(string):
+def upper_string(string):
     """
-    Конфликтующее описание =)
+    Возвращает строку заглавными буквами
     """
     return string.upper()
 
 
-def title(string):
+def title_words(string):
     """
     Возвращает каждую буквы строки заглавной
     """
